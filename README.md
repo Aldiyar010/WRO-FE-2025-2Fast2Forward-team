@@ -96,7 +96,7 @@ In our robot we use EV3 lithium battery which is:
 - Drives for 1 second and stops
 Plays the "Kung Fu" sound
 ## Link to YouTube: https://youtu.be/lYeoIkNUopo?si=VNAsNOlTND-y97Hu
-
+## Pseudo code: 
 ## Obstacle Avoidance Logic
 
 - Pixy2 camera detects red (right) and green (left) obstacle markers
