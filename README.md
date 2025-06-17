@@ -60,9 +60,9 @@ Plays the "Kung Fu" sound
 
 ## Obstacle Avoidance Logic
 
-- Pixy2 camera detects red (left) and green (right) obstacle markers
+- Pixy2 camera detects red (right) and green (left) obstacle markers
 - Detected positions are logged
-- Programm decides where to turn and robot turns in right direction.
+- Programm decides where to turn and robot turns in correct direction.
 
 ## Team photo
 ![Team photo](https://github.com/user-attachments/assets/e525b1ea-c73b-4389-8844-296973a7db4d)
