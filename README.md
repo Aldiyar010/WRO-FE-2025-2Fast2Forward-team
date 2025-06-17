@@ -26,6 +26,45 @@ Our mission is to design and build a compact, fast, and intelligent autonomous v
 - 1 × Medium motors for drive, 1 × Medium motor for steering
 - Rear large wheels for better speed and tight turns
 - Lightweight front wheel steering system
+  ## Why medium motors?
+- EV3 Medium Motor
+![m motor](https://github.com/user-attachments/assets/19fe0448-3ddf-4de9-929a-c16c0d89444e)
+
+Power (Torque): ~8 N·cm (Newton centimeters). 
+Speed: ~240 RPM (rotations per minute). 
+Size/Weight: Smaller and lighter. 
+
+- EV3 Large Motor
+![l motor](https://github.com/user-attachments/assets/d86e9a87-0c56-4965-ab5f-10c92d2f1292)
+
+Power (Torque): ~20 N·cm. 
+Speed: ~160 RPM. 
+Size/Weight: Larger and heavier.
+
+- Summary:
+
+Medium Motor: Faster but less powerful
+Large Motor: More powerful but slower
+Each motor is better for different purposes however we use Medium Motor for speed and precision that is vital characteristics for steering mechanism and avoiding obstacles.
+![Compare](https://github.com/user-attachments/assets/f507339e-7dce-4c3c-ac42-29122630327d)
+
+## Power management
+
+In our robot we use EV3 lithium battery which is:
+1. Rechargeable – Can be recharged hundreds of times, saving money and reducing waste compared to disposable AA batteries.
+2. Stable voltage – Provides a consistent 7.4V output, which ensures stable performance of motors and sensors.
+
+3. High capacity (2200mAh) – Offers longer operating time than 6 AA batteries, especially under heavy load.
+
+4. Lighter weight – Weighs less than 6 AA batteries with a battery holder, reducing the robot’s total weight and improving mobility.
+
+5. No need to remove – Charges directly in the EV3 brick via the AC charger, no need to take the battery out.
+
+6. Better for competitions – Provides reliable and predictable performance, which is important during long runs or matches.
+
+7. Environmentally friendly – Reduces the use of disposable batteries.
+- Thus, the EV3 lithium-ion battery is a more efficient, lighter, and cost-effective power source for serious robot projects.
+![Akkum](https://github.com/user-attachments/assets/00a34278-78ce-4b32-a8b1-bfac66677113)
 
 ### Sensor System
 
