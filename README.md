@@ -1,5 +1,5 @@
 # WRO-FE-2025-2Fast2Forward-team
-Welcome to the official repository of **Team 2Fast2Forward** from Kazakhstan, participants of the **World Robot Olympiad (WRO) Future Engineers 2025**.This repository contains all engineering documentation, source code, 3D models, hardware schematics, and media related to the development of our autonomous EV3-based vehicle. 
+Welcome to the official repository of **Team 2Fast2Forward** from Kazakhstan, participants of the **World Robot Olympiad (WRO) Future Engineers 2025**.This repository contains all engineering documentation, source code, and media related to the development of our autonomous EV3-based vehicle. 
 ## Team members: Malikuly Aldiyar, Nurlanov Dzhalil
 
 ![preview2](https://github.com/user-attachments/assets/a29509b0-afce-4198-8052-537fa538f86d)
