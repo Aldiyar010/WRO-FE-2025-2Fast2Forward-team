@@ -45,7 +45,7 @@ Size/Weight: Larger and heavier.
 
 Medium Motor: Faster but less powerful
 Large Motor: More powerful but slower
-Each motor is better for different purposes however we use Medium Motor for speed and precision that is vital characteristics for steering mechanism and avoiding obstacles.
+Each motor is better for different purposes however we use Medium Motor for speed and precision which is vital characteristics for steering mechanism and avoiding obstacles.
 ![Compare](https://github.com/user-attachments/assets/f507339e-7dce-4c3c-ac42-29122630327d)
 
 ## Power management
@@ -56,7 +56,7 @@ In our robot we use EV3 lithium battery which is:
 
 3. High capacity (2200mAh) – Offers longer operating time than 6 AA batteries, especially under heavy load.
 
-4. Lighter weight – Weighs less than 6 AA batteries with a battery holder, reducing the robot’s total weight and improving mobility.
+4. Lighter weight – Weights less than 6 AA batteries with a battery holder, reducing the robot’s total weight and improving mobility.
 
 5. No need to remove – Charges directly in the EV3 brick via the AC charger, no need to take the battery out.
 
@@ -71,7 +71,10 @@ In our robot we use EV3 lithium battery which is:
 - **Color sensor** – detects path direction (orange/blue)
 - **Ultrasonic sensor** – wall distance
 - **Gyro sensor** – ensures straight-line movement with PID controller
-- **Pixy2 camera** – recognizes red and green objects during the obstacle round
+- **Pixy2 camera** – recognizes red and green objects during the obstacle round. To attach pixy2 camera to our robot we used 3D printed part with screws.
+  ![1000035756-removebg-preview](https://github.com/user-attachments/assets/0c7779d3-c72b-40cf-89f1-c1e6c32e2fe0)
+![1000035750-removebg-preview](https://github.com/user-attachments/assets/d70aefff-0f34-40ee-a10f-3468e6f966e4)
+![Изображение WhatsApp 2025-06-18 в 11 44 00_d8b6d015](https://github.com/user-attachments/assets/eadbe5ee-fb04-43c9-b5f6-920481468911)
 
 ### Photos of robot
 ![photo1](https://github.com/user-attachments/assets/88275ad2-432f-4e03-a3fd-e1ecc41c92a8)
