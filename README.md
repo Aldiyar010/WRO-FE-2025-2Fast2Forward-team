@@ -121,7 +121,7 @@ Plays the "Kung Fu" sound
 
 5. All logic is inside a continuous loop, repeating every cycle.
 
-### Pseudo code: 
+### Pseudo code: https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/blob/main/Pseudo%20code%202.py
 
 ## Team photo
 ![Team photo](https://github.com/user-attachments/assets/e525b1ea-c73b-4389-8844-296973a7db4d)
