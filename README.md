@@ -66,6 +66,8 @@ In our robot we use EV3 lithium battery which is:
 - Thus, the EV3 lithium-ion battery is a more efficient, lighter, and cost-effective power source for serious robot projects.
 ![Akkum](https://github.com/user-attachments/assets/00a34278-78ce-4b32-a8b1-bfac66677113)
 
+### Here you can find all electric schemes of engineering parts: https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/tree/main/Schemes-folder
+
 ### Sensor System
 
 - **Color sensor** – detects path direction (orange/blue)
