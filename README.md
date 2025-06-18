@@ -3,6 +3,23 @@ Welcome to the official repository of **Team 2Fast2Forward** from Kazakhstan, pa
 ## Team members: Malikuly Aldiyar, Nurlanov Dzhalil
 
 ![preview2](https://github.com/user-attachments/assets/a29509b0-afce-4198-8052-537fa538f86d)
+***
+## Navigation on repository
+* [*Project Overview*](#project-overview)
+* [*Technical Summary*](#technical-summary)
+  * [Drive & Chassis](#drive-and-chassis)
+  * [Why medium motors?](#why-medium-motors)
+* [*Power management*](#power-management)
+  * [Schemes of engineering parts](#here-you-can-find-all-electric-schemes-of-engineering-parts)
+  * [Sensor System](#sensor-system)
+* [*Open Challenge*](#open-challenge)
+  * [Link to YouTube](#link-to-youtube)
+  * [Pseudo code](#pseudo-code)
+* [*Obstacle Challenge*](#obstacle-challenge)
+  * [Pseudo code2](#pseudo-code2)
+* [*Photos*](#photos)
+  * [Team photo](#team-photo)
+  * [Photos of robot](#photos-of-robot)
 
 ## Project Overview
 
@@ -20,13 +37,13 @@ Our mission is to design and build a compact, fast, and intelligent autonomous v
 
 ## Technical Summary
 
-### Drive & Chassis
+### Drive and Chassis
 
 - Chassis dimensions: **230 × 190 × 200 mm**
 - 1 × Medium motors for drive, 1 × Medium motor for steering
 - Rear large wheels for better speed and tight turns
 - Lightweight front wheel steering system
-  ## Why medium motors?
+### Why medium motors?
 - EV3 Medium Motor
 ![m motor](https://github.com/user-attachments/assets/19fe0448-3ddf-4de9-929a-c16c0d89444e)
 
@@ -66,7 +83,8 @@ In our robot we use EV3 lithium battery which is:
 - Thus, the EV3 lithium-ion battery is a more efficient, lighter, and cost-effective power source for serious robot projects.
 ![Akkum](https://github.com/user-attachments/assets/00a34278-78ce-4b32-a8b1-bfac66677113)
 
-### Here you can find all electric schemes of engineering parts: https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/tree/main/Schemes-folder
+### Here you can find all electric schemes of engineering parts
+https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/tree/main/Schemes-folder
 
 ### Sensor System
 
@@ -77,14 +95,6 @@ In our robot we use EV3 lithium battery which is:
   ![1000035756-removebg-preview](https://github.com/user-attachments/assets/0c7779d3-c72b-40cf-89f1-c1e6c32e2fe0)
 ![1000035750-removebg-preview](https://github.com/user-attachments/assets/d70aefff-0f34-40ee-a10f-3468e6f966e4)
 ![Изображение WhatsApp 2025-06-18 в 11 44 00_d8b6d015](https://github.com/user-attachments/assets/eadbe5ee-fb04-43c9-b5f6-920481468911)
-
-### Photos of robot
-![photo1](https://github.com/user-attachments/assets/88275ad2-432f-4e03-a3fd-e1ecc41c92a8)
-![photo3](https://github.com/user-attachments/assets/c06869b0-6ebe-4701-b5a8-91e420653d27)
-![photo2](https://github.com/user-attachments/assets/53c9a823-8810-4864-bd32-61579632f31f)
-![photo4](https://github.com/user-attachments/assets/8ff3bd48-07a2-4f93-8a78-e4a726ca3f4b)
-![photo5](https://github.com/user-attachments/assets/488bd7d0-920f-470d-a573-8f7b915256e4)
-![photo6](https://github.com/user-attachments/assets/41b5eede-4352-4352-9438-da3a8381cb4e)
 
 ## Open Challenge
 ![{25555357-B112-4AEB-A130-E63DFD27DE6F}](https://github.com/user-attachments/assets/1131fb5d-a43f-4af9-b7d4-89e1067f62b9)
@@ -100,14 +110,10 @@ In our robot we use EV3 lithium battery which is:
 4. If line == 12, the robot:
 - Drives for 1 second and stops
 Plays the "Kung Fu" sound
-### Link to YouTube: https://youtu.be/lYeoIkNUopo?si=VNAsNOlTND-y97Hu
-### Pseudo code: https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/blob/main/Pseudo%20code.py
-
-## Obstacle Avoidance Logic
-
-- Pixy2 camera detects red (right) and green (left) obstacle markers
-- Detected positions are logged
-- Programm decides where to turn and robot turns in correct direction.
+### Link to YouTube
+https://youtu.be/lYeoIkNUopo?si=VNAsNOlTND-y97Hu
+### Pseudo code 
+https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/blob/main/Pseudo%20code.py
 
 ## Obstacle Challenge
 ![Изображение WhatsApp 2025-06-18 в 13 05 58_a62b772e](https://github.com/user-attachments/assets/858f3f62-565c-4839-bc6f-cb334e68ef37)
@@ -123,7 +129,22 @@ Plays the "Kung Fu" sound
 
 5. All logic is inside a continuous loop, repeating every cycle.
 
-### Pseudo code: https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/blob/main/Pseudo%20code%202.py
+### Obstacle Avoidance Logic
 
-## Team photo
+- Pixy2 camera detects red (right) and green (left) obstacle markers
+- Detected positions are logged
+- Programm decides where to turn and robot turns in correct direction.
+
+### Pseudo code2 
+https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/blob/main/Pseudo%20code%202.py
+
+## Photos
+### Photos of robot
+![photo1](https://github.com/user-attachments/assets/88275ad2-432f-4e03-a3fd-e1ecc41c92a8)
+![photo3](https://github.com/user-attachments/assets/c06869b0-6ebe-4701-b5a8-91e420653d27)
+![photo2](https://github.com/user-attachments/assets/53c9a823-8810-4864-bd32-61579632f31f)
+![photo4](https://github.com/user-attachments/assets/8ff3bd48-07a2-4f93-8a78-e4a726ca3f4b)
+![photo5](https://github.com/user-attachments/assets/488bd7d0-920f-470d-a573-8f7b915256e4)
+![photo6](https://github.com/user-attachments/assets/41b5eede-4352-4352-9438-da3a8381cb4e)
+### Team photo
 ![Team photo](https://github.com/user-attachments/assets/e525b1ea-c73b-4389-8844-296973a7db4d)
