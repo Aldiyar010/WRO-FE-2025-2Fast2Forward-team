@@ -98,13 +98,30 @@ In our robot we use EV3 lithium battery which is:
 4. If line == 12, the robot:
 - Drives for 1 second and stops
 Plays the "Kung Fu" sound
-## Link to YouTube: https://youtu.be/lYeoIkNUopo?si=VNAsNOlTND-y97Hu
-## Pseudo code: https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/blob/main/Pseudo%20code.py
+### Link to YouTube: https://youtu.be/lYeoIkNUopo?si=VNAsNOlTND-y97Hu
+### Pseudo code: https://github.com/Aldiyar010/WRO-FE-2025-2Fast2Forward-team/blob/main/Pseudo%20code.py
+
 ## Obstacle Avoidance Logic
 
 - Pixy2 camera detects red (right) and green (left) obstacle markers
 - Detected positions are logged
 - Programm decides where to turn and robot turns in correct direction.
+
+## Obstacle Challenge
+![Изображение WhatsApp 2025-06-18 в 13 05 58_a62b772e](https://github.com/user-attachments/assets/858f3f62-565c-4839-bc6f-cb334e68ef37)
+![Изображение WhatsApp 2025-06-18 в 13 39 13_cb61fd05](https://github.com/user-attachments/assets/f1404756-f1df-43dc-a339-0a4bc44aae52)
+
+1. The robot uses the Pixy2 camera to detect objects by color signatures.
+
+2. Depending on the detected signature, it turns left, right, or drives forward.
+
+3. If no object is detected, the robot goes forward.
+
+4. Steering is done using a separate steering motor (front wheel control).
+
+5. All logic is inside a continuous loop, repeating every cycle.
+
+### Pseudo code: 
 
 ## Team photo
 ![Team photo](https://github.com/user-attachments/assets/e525b1ea-c73b-4389-8844-296973a7db4d)
